@@ -1,0 +1,7133 @@
+﻿Xerex (Name pending)
+1.0
+
+normal
+0276
+3
+mythic rare
+Teyo, Escherian Guard
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Planeswalker — Teyo 
+
+
+Permanents you control with mana value equal to the number of loyalty counters on this planeswalker have hexproof.<br>///br///+1: Create a 1/1 green and blue Fractal creature token with mana value 3.<br>///br///-1: Put a vigilance counter or lifelink counter on target creature.<br>///br///[-X]: Each creature you control with mana value X gets +X/+X until end of turn.<br>///br///Starting loyalty: 2
+
+
+
+colorless
+
+
+
+
+-X: 
+
+
+===========
+normal
+0291
+4
+common
+Impossible Staircase
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Target creature phases out. <br>///br///&#8212; Tap target creature you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0078
+3
+common
+Edge of a Circle
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell.<br>///br///<i>Symmetry 3</i> &#8212; If you control three or more nonland permanents with the same mana value, scry 2.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0105
+4
+common
+Vertex Warden
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Knight 
+2
+2
+<i>Symmetry 3</i> &#8212; When this creature enters, if you control three or more nonland permanents with the same mana value, the owner of target creature puts it on the top or bottom of their library.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0190
+2
+common
+Schrodinger's Strike
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Create a paradox.<br>///br///&#8212; Deal 4 damage to target creature or planeswalker.<br>///br///&#8212; If a creature would die this turn, exile it instead.
+<i>&#8220;I do not know if my enemy is alive or dead until I hit them in the face with a crowbar.&#8221;  &#8212; Pzazk the Pulverizer</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0299
+0
+rare
+The Iron Tower
+blue, black, land, horizontal
+
+Legendary Land
+
+
+This land enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span><br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature you control gains recast until end of turn. The recast cost is equal to it&#8217;s mana cost.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0258
+4
+rare
+Geometry Exuder
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fractal 
+2
+3
+Flying, vigilance<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Choose 1, 2, or 3, create a 1/1 green and blue Fractal creature token with the chosen mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0123
+3
+uncommon
+Feed on Weakness
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Distortion <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this spell for it&#8217;s distortion cost, if you do, swap the positions of the words in brackets.)</i><br>///br///You [gain] 3 life and each opponent [lose]s 3 life. Then, draw a card for each opponent who has more life then you.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0120
+3
+uncommon
+Endless Obligator
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Mercenary 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///Flash<br>///br///When this creature enters, target creature gains indestructible until end of turn.           
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0260
+2
+uncommon
+Infinity Incarnite
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental 
+1
+2
+Activated abilities of creatures you control cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to activate.<br>///br///Whenever you abstract, target creature you control gets +2/+0 until end of turn. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0250
+1
+common
+Unending Fractal
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+0
+0
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///This creature enters with a +1/+1 counter for each time you&#8217;ve cast a spell named Unending Fractal this game.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0027
+2
+rare
+Lingering Refraction
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Recast <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this enchantment enters, destroy target creature with power 4 or greater. If it was cast from exile, instead destroy target nonland permanent, then exile this enchantment.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0087
+4
+rare
+Mirrored Duplicate
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Shapeshifter 
+0
+1
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///You may have this creature enter as a copy of any creature on the battlefield except it has recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.        
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0088
+5
+common
+Mirrormade Stalker
+blue, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Fractal Construct 
+3
+5
+ 1R &#8212;  
+
+
+
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+1
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0197
+5
+uncommon
+Surrender to Ferocity
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Distortion <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may cast this spell for it&#8217;s distortion cost, if you do, swap the positions of the words in brackets.)</i><br>///br///[Target] creature you control gets +3/+1 until end of turn. Goad [each] creature you don&#8217;t control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0100
+2
+rare
+Symmetrical Spawning
+blue
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Create X 1/1 blue and green Fractal creature tokens with mana value X.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0207
+5
+uncommon
+Bloom
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elemental Incarnation 
+1
+1
+Distortion <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> <i>(You may cast this spell for it&#8217;s distortion cost, if you do, swap the positions of the words in brackets.)</i><br>///br///When this creature enters, put [three] +1/+1 counters on each creature you control.<br>///br///When this creature dies, return [a] land card/s from your graveyard to the battlefield tapped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0097
+1
+uncommon
+Simplify
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Distortion <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may cast this spell for it&#8217;s distortion cost, if you do, swap the positions of the words in brackets.)</i><br>///br///Counter target spell with mana value [one] or less. Create a 1/1 green and blue Fractal creature token with mana value [three].
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0016
+3
+uncommon
+Eightfold Oath
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Distortion <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(You may cast this spell for it&#8217;s distortion cost, if you do, swap the positions of the words in brackets.)</i><br>///br///[White] spells you cast cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast.<br>///br///[Nonwhite] spells you cast cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> more to cast.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0187
+4
+rare
+Reflection Salvager
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+3
+3
+Menace<br>///br///Whenever you abstract for the first time each turn create a Junk token. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0176
+3
+uncommon
+Mirror-Bound Tormentor
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Spirit 
+2
+3
+Whenever you abstract, this creature deals 1 damage to each opponent. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0259
+3
+uncommon
+Gravity Shredder
+red, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+2
+2
+Whenever you abstract, put a +1/+1 counter on target creature you control. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0144
+3
+rare
+Scrap Siphoner
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Horror 
+*
+3
+Menace<br>///br///this creatures power is equal to the number of artifacts you control.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, Sacrifice a nontoken, nonland permanent: Create a Junk token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0239
+4
+common
+Nature's Dismantling
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Exile target artifact or target players graveyard.<br>///br///&#8212; Exile target enchantment or target players graveyard.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0265
+5
+uncommon
+Parabola Trailer
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Scout 
+4
+4
+<i>Symmetry 4</i> &#8212; As long as you control four or more nonland permanents with the same mana value, other creatures you control get +1/+1.<br>///br///Whenever this creature attacks, you gain X life where X is the greatest number of nonland permanents you control that share a mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0103
+2
+rare
+Timeloop Specialist
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Wizard 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, exile up to one instant, sorcery or artifact card from a graveyard, you may cast it this turn. When you do, exile it as it resolves.          
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0241
+4
+rare
+Recursive Crafting
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Whenever you sacrifice a token, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, if you do, create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Create a tapped Junk token.<br>///br///&#8212; Put a land card from your hand onto the battlefield tapped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0267
+2
+rare
+Prosthetics Engineer
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Vedalken 
+1
+1
+ 3WB &#8212;  
+
+
+
+white, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+3
+4
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0243
+4
+common
+Reflective Fractal
+green, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Fractal  
+3
+3
+ 1U &#8212;  
+
+
+
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+1
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0254
+4
+uncommon
+Crystal Servitor
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct 
+3
+5
+Vigilance<br>///br///Artifacts you control have &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature you control gets +1/+1 until end of turn, activate only as a sorcery.&#8221;
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0277
+5
+mythic rare
+Tezzeret of the Iron Tower
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Planeswalker — Tezzeret 
+
+
+Whenever you cast a spell from exile, you may activate an additional loyalty ability of this planeswalker this turn.<br>///br///+1: Target creature gains deathtouch until end of turn.<br>///br///-2: Target player mills three cards. You may exile an instant, sorcery, or artifact card milled this way. You may cast it this turn.<br>///br///-7: You get an emblem with &#8220;You may cast face up artifact cards from your graveyard or from exile.&#8221;<br>///br///Starting loyalty: 4
+
+
+
+colorless
+
+
+
+
+-7: 
+
+
+===========
+normal
+0161
+5
+mythic rare
+Daretti, Warpmetal Forger
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Planeswalker — Daretti 
+
+
++1: Create a Junk token.<br>///br///-3: This planeswalker deals X damage to target creature, where X is the number of artifacts you control.<br>///br///-7: You get an emblem with &#8220;Whenever an artifact is put into your graveyard from the battlefield, this emblem deals 4 damage to any target.&#8221;<br>///br///Starting loyalty: 4
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0140
+4
+uncommon
+Refuse to Riches
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+Junk you control are treasures in addition to their other types and have &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Add one mana of any color.&#8221;<br>///br///When this enchantment enters, create two tapped Junk tokens <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0075
+4
+rare
+Deekah, Flummoxed Student
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Wizard 
+3
+3
+Creatures you control with mana value zero have &#8220;This creature gets +1/+1 for each counter on it&#8221;.<br>///br///Creatures you control with mana value one, two, or three have flying.<br>///br///Creatures you control with mana value four or greater have vigilance.     
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0142
+4
+rare
+Scouring Reflection
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Each creature gets -X/-X until end of turn, where X is its mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0148
+3
+common
+Scrapify
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Destroy target creature or planeswalker, create a Junk token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+<i>&#8220;Oh, stop whining, you&#8217;ll be more useful as parts anyways!&#8221; &#8212; Daretti</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0118
+4
+rare
+Discard Devourer
+black, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Junk Fractal 
+3
+2
+Whenever you sacrifice an artifact, target creature gets -X/-X until end of turn, where X is the number of artifacts you&#8217;ve sacrificed this turn.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this creature: Exile the top card of your library, you may play it this turn, activate only as a sorcery.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0108
+2
+common
+Ashes to Ashes
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice an artifact or creature.<br>///br///Draw a card, and make a Junk token. Each opponent loses 2 life. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0263
+3
+rare
+Mirrorwrapped Lancer
+blue, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+1
+2
+ 6UR &#8212;  
+
+
+
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+4
+5
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0102
+6
+mythic rare
+Temporal Fracturing
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Take an extra turn after this one.<br>///br///&#8212; As long as its not an extra turn, end the turn. Otherwise, skip your next turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0155
+4
+rare
+Warped Intent
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Search your library for a card, and put it into your hand, then shuffle.<br>///br///&#8212; Shuffle a card at random from your hand into your library, then draw two cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0228
+3
+common
+Green Ramp Spell (Name plz)
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Search your library for a basic land and put it onto the battlefield tapped, then shuffle.<br>///br///&#8212; Create a 1/1 green and blue Fractal creature token with mana value 2.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0240
+2
+common
+ramp creature (Name Plz)
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+1
+3
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.<br>///br///<i>Symmetry 3</i> &#8212; <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, activate only if you control three or more nonland permanents with the same mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0157
+4
+common
+Combat Specialist
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Knight 
+4
+2
+ 2W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+2
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0287
+3
+common
+Symmatriarch
+blue, green, hybrid, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-GU.png' alt='G/U' width='16' height='16'>
+Creature — Fractal 
+1
+1
+This creature gets +1/+1 for each token you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0011
+6
+common
+Arbiter of Conformity
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel 
+5
+4
+Flying<br>///br///<i>Symmetry 3</i> &#8212; As long as you control three or more nonland permanents with the same mana value, this creature gets +1/+1 and has vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0201
+3
+common
+Time Runner
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, exile the top card of your library, you may play it this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0139
+2
+common
+Propellant Tinkerer
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Goblin Artificer 
+1
+2
+At the beginning of combat on your turn, target artifact creature or equipped creature you control gains your choice of menace or deathtouch until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0125
+3
+uncommon
+Fractured Scythe
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +2/+0, has menace and &#8220;Whenever this creature deals combat damage to a player, you may sacrifice a permanent, when you do, draw a card.&#8221;<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0180
+2
+uncommon
+Pneumatic Axe
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature has trample.<br>///br///Whenever equipped creature attacks, if you&#8217;ve abstracted this turn, put a +1/+1 counter on it. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i><br>///br///Equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0149
+3
+mythic rare
+Serpentine Chains
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Equipment Snake  
+2
+1
+Menace<br>///br///Equipped creature gets +2/+1 and has menace.<br>///br///Whenever equipped creature dies, exile it. You may cast it from exile until the beginning of your next end step. <br>///br///Whenever you cast a creature spell from exile, attach this artifact to it as it enters.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0049
+3
+rare
+White alt wincon
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature
+2
+2
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///Lifelink<br>///br///When White alt wincon enters, if this is the fifth time a creature named White alt wincon entered this game, you win the game.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0172
+1
+uncommon
+Jet-Boosted Goblin
+red, artifact, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Goblin  
+2
+2
+This spell can only be cast from exile.<br>///br///Haste<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, Shuffle this card from your hand into your library: Draw a card.
+<i>The feeling of flying through the sky was so exciting, Spulk hardly even noticed he had crashed.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0034
+2
+common
+Perfect Symmetry
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Untap target creature, it gains indestructible until end of turn.<br>///br///<i>Symmetry 3</i> &#8212; If you control three or more nonland permanents with the same mana value, put a +1/+1 counter on target creature you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0147
+7
+uncommon
+Scrapheap Scavengers
+black
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Rogue 
+4
+4
+Affinity for Junk <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each Junk you control.)</i><br>///br///Deathtouch, menace
+<i>All they need is what nobody else wants.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0104
+4
+common
+Timestream Stabilizer
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Bird Wizard 
+2
+1
+Flash, flying<br>///br///When this creature enters, counter target paradox ability.
+<i>&#8220;Anomaly in sector 42-X neutralized.&#8221;</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0297
+7
+mythic rare
+Tezzeret's Darksteel Heart
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Legendary Artifact
+
+
+This artifact enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create a paradox.<br>///br///&#8212; Search your library for an artifact card and put it onto the battlefield, then shuffle.<br>///br///&#8212; Sacrifice an artifact, each opponent loses X life where X is the sacrificed permanents mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0069
+4
+rare
+Calculated Evolution
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Fractals you control get +1/+1<br>///br///At the beginning of your end step, if you&#8217;ve created a creature token this turn, create a token that&#8217;s a copy of this enchantment.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0264
+2
+uncommon
+Modulating Cultivator
+white, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+1
+3
+ 2GW &#8212;  
+
+
+
+white, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+2
+4
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0294
+2
+uncommon
+Regenerating Scrap
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Junk 
+
+
+Recast <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this artifact leaves the battlefield, look at the top two cards of your library, put one of them into your hand, and the other on the bottom of your library.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0162
+3
+uncommon
+Dig Through Scrap
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Reveal cards from the top of your library until you reveal an artifact card, and exile it, you may play it until the end of your next turn. Put all other cards revealed this way on the bottom of your library in a random order.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0261
+4
+rare
+Jolt of Inspiration
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Exile the top three cards of your library, you may play them this turn. At the beginning of your next end step, if any of those cards remain in exile, draw that many cards.<br>///br///You may play an additional land this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0121
+3
+common
+Entropy Channeler
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Bird Wizard 
+2
+1
+Flying<br>///br///When this creature enters, create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Each player discards a card.<br>///br///&#8212; Each player sacrifices a creature.          
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0272
+4
+mythic rare
+Splinter Hivemind
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Fractal 
+3
+3
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span><br>///br///Whenever you cast this spell from exile, target opponent chooses untap step, draw step, or combat phase, they skip each instance of the chosen step or phase during their next turn.<br>///br///Whenever a player skips a step, phase, or turn, draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0289
+2
+uncommon
+Daretti's Security System
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+Whenever a player attacks, if one or more of those creatures are attacking you, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, when you do, attacking creatures get -1/-0 and lose flying until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0238
+3
+common
+Mitosis Fractal
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+2
+1
+When this creature dies, create two 1/1 green and blue Fractal creatures tokens with mana value 2.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0309
+0
+basic land
+Sky Meadows
+white, blue, land, horizontal
+
+Artifact Land
+
+
+Sky Meadows enters tapped.<br>///br///When Sky Meadows leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0302
+0
+basic land
+Control Room
+white, black, land, horizontal
+
+Artifact Land
+
+
+Control Room enters tapped.<br>///br///When Control Room leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0306
+0
+basic land
+Paladin Armory
+white, red, land, horizontal
+
+Artifact Land
+
+
+Paladin Armory enters tapped.<br>///br///When Paladin Armory leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0301
+0
+basic land
+Automated Farmland
+white, green, land, horizontal
+
+Artifact Land
+
+
+Automated Farmland enters tapped.<br>///br///When Automated Farmland leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0303
+0
+basic land
+Experiment Chambers
+blue, black, land, horizontal
+
+Artifact Land
+
+
+Experiment Chambers enters tapped.<br>///br///When Experiment Chambers leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0304
+0
+basic land
+Interdimensional Space
+red, green, land, horizontal
+
+Artifact Land
+
+
+Interdimensional Space enters tapped.<br>///br///When Interdimensional Space leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0308
+0
+basic land
+Scrap Incinerator
+black, red, land, horizontal
+
+Artifact Land
+
+
+Scrap Incinerator enters tapped.<br>///br///When Scrap Incinerator leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0307
+0
+basic land
+Ravenous Landfill
+black, green, artifact, land, horizontal
+
+Artifact Land
+
+
+Ravenous Landfill enters tapped.<br>///br///When Ravenous Landfill leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0290
+2
+common
+Equalizing Engine
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Add one mana of any color.<br>///br///<i>Symmetry 3</i> &#8212; <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color. Activate this ability only if you control two or more nonland permanents with the same mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0095
+2
+common
+Serendipitous Updraft
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Target creature and each creature you control that shares a mana value with it gains flying until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0046
+1
+uncommon
+Trip the Alarms
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Tap target creature.<br>///br///<i>Symmetry 4</i> &#8212; Exile that creature if you control four or more nonland permanents with the same mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0058
+1
+uncommon
+Absolute Value
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Whenever you abstract, tap or untap enchanted creature <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0173
+2
+uncommon
+Loophole
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Recast <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///Whenever you cast this spell or another spell from exile, you may discard a card, if you do, draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0298
+0
+uncommon
+Echo Chamber
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Recast each creature you control that has been recast this turn. <i>(You don&#8217;t have to pay the recast costs.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0138
+4
+uncommon
+Pattern Recognition
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Destroy target creature and up to one other target creature that shares a mana value with it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0090
+2
+common
+Quantum Leapfrog
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Frog 
+2
+1
+Whenever you cast a spell from exile, this creature gains flying until end of turn.
+<i>In a flicker of light, the frog jumped away, only to appear three minutes ago, eating a bug.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0188
+3
+common
+Reverberant Slash
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Target creature you control gains double strike until end of turn.<br>///br///&#8212; Target creature you control gets +2/+0 and gains trample until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0235
+5
+uncommon
+Mandelbeast
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal Beast 
+4
+4
+When this creature enters, create a 1/1 green and blue Fractal creature token with mana value 3.<br>///br///<i>Symmetry 3</i> &#8212; As long as you control three or more nonland permanents with the same mana value, whenever this creature attacks, other fractal creatures you control get +2/+2 until end of turn.        
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0059
+2
+common
+Acute Observer
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human  
+1
+3
+Whenever you abstract, scry 2 <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0159
+4
+common
+Critical Mass
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Target creature gets +3/+0 until end of turn. When that creature dies this turn, you may have it deal damage equal to its power to target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0199
+4
+uncommon
+Temporal Scavenger
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+2
+4
+When this creature enters or attacks, you may exile another target creature you control. At the beginning of your next end step, if that card remains in exile, you may cast it without paying its mana cost.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0253
+3
+uncommon
+Construction Warden
+black, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+2
+3
+When this creature enters, you may return target artifact card from your graveyard to your hand.<br>///br///Whenever you cast an artifact spell, you may sacrifice this creature, if you do, return another target artifact card from your graveyard to your hand.         
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0137
+5
+rare
+Paradoxical Rebirth
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Return target creature from your graveyard to the battlefield. When you do, exile it. You may cast it from exile at the beginning of the next end step without paying its mana cost.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0094
+4
+common
+Rift-Piercer Drake
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Drake 
+2
+3
+Flying<br>///br///Whenever you abstract, this creature gets +2/+0 until end of turn. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0205
+6
+mythic rare
+Ancient Ouroboros
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Snake Fractal 
+4
+4
+Whenever you abstract, put a +1/+1 counter on each creature you control. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i><br>///br///Remove three counters from among permanents you control: Create a junk token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0249
+3
+common
+Temporal Tracker
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Scout 
+2
+2
+Whenever a card you own is put into exile, you gain 1 life.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Exile the top card of your library, if it&#8217;s a land, you may play it this turn.
+<i>On Xerex, the far past and the distant future are mere minutes apart.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0077
+4
+rare
+Echo Vault
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact
+
+
+Whenever you cast a noncreature spell from exile, copy it. You may choose new targets for the copy.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0262
+5
+mythic rare
+Laws of Xerex
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Enchantment
+
+
+Untapped creatures can&#8217;t block.<br>///br///Tapped creatures can block.<br>///br///Noninstant spells without flash can be played anytime a player could cast an instant. <br>///br///Instants and spells with flash can only be cast any time a player could cast a sorcery.
+<i>&#8220;The only rules that govern Xerex are the ones we impose upon ourselves.&#8221;                                  </i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0160
+3
+uncommon
+Cyclical Elemental
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental 
+3
+1
+Haste<br>///br///When this creature dies, exile it. You may cast it from exile until the end of your next turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0237
+3
+rare
+Metaphysical Harmonizer
+green, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact
+
+
+This artifact enters tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add an amount of <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> equal to the greatest mana value among other permanents you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0189
+3
+rare
+Rippling Abstraction
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Exile target permanent you control, when you do, create X tokens that are each a copy of it, where X is 1 plus the number of times you&#8217;ve abstracted this turn. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0163
+4
+uncommon
+Echoing Invoker
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Wizard 
+2
+4
+When this creature enters, exile target instant, sorcery, or artifact card from your graveyard. You may cast the exiled card this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0135
+3
+uncommon
+Misery Sifter
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+3
+2
+Whenever another nontoken creature you control dies, create a Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0167
+4
+uncommon
+Fluxburn Hellion
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Hellion 
+5
+3
+Recast <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///Trample<br>///br///Whenever you cast this spell from exile, it deals 2 damage to target creature or planeswalker.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0015
+4
+common
+Echoing Phalanx
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Illusion Knight 
+3
+4
+Whenever this creature attacks, create a token that&#8217;s a copy of it that&#8217;s tapped and attacking except it has base power and toughness 1/1. Sacrifice it at the beginning of your next end step.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0043
+4
+uncommon
+Symmetry Enforcer
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+3
+3
+When this creature enters, choose a number. Creatures you control with mana value equal to the chosen number get +2/+2 until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0023
+3
+uncommon
+Fractaline Synchronizer
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Fractal 
+1
+1
+Whenever another creature enters under your control, if it&#8217;s mana value is equal to this creatures mana value, put two +1/+1 counters on this creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0128
+5
+mythic rare
+Halls of Mirrored Death
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever a nontoken creature dies, create a token that&#8217;s a copy of it except it&#8217;s a 1/1 black Illusion in addition to its other colors and types.
+<i>Where hopeless wails and burning pain coalesce.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0156
+5
+mythic rare
+Ascent of Shattered Fury
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever a player is dealt noncombat damage by another source, you may have this enchantment that much damage to target creature or planeswalker.
+<i>Where mindless rage and seething anger coalesce.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0214
+6
+mythic rare
+Fields of Tangled Growth
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever a nontoken land enters the battlefield, you may create a tapped token that is a copy of it.
+<i>Where twisting roots and strangling vines coalesce.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0032
+5
+mythic rare
+Parallax Seraph
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel 
+4
+4
+Flying, vigilance<br>///br///Whenever you cast a spell, create a 1/1 green and blue Fractal creature token with equal mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0033
+5
+mythic rare
+Path of Radiant Symmetry
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever one or more creatures attack, you may create a token that is a copy of one of the attacking creatures except it loses all abilities. If it is your turn, that token is tapped and attacking. Exile the token at the end of combat.
+<i>Where glorious harmony and mindless similarity coalesce.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0092
+3
+common
+Reflective Mirage
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Illusion 
+3
+1
+When this creature enters, if you control another permanent that shares a mana value with it, draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0076
+5
+mythic rare
+Depths of Twisted Thought
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Enchantment.
+
+
+Whenever a player casts an instant or sorcery spell, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, if you do, copy it. You may choose new targets for the copy.
+<i>Where swirling minds and sleepless dreams coalesce.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0232
+1
+common
+Inorganic Growth
+green, artifact, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment Artifact — Aura 
+
+
+Enchant land<br>///br///Enchanted land is an artifact in addition to its other types and has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.&#8221;
+<i>Tezzeret&#8217;s work turned the flora of Xerex into twisted shapes of a strange dark metal.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0098
+4
+common
+Staggering Echo
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Return target creature to its owners hand.<br>///br///&#8212; Draw two cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0141
+3
+common
+Rustborn Revenant
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creatre — Zombie Construct 
+3
+2
+Whenever you sacrifice one or more artifacts for the first time each turn, this creature gets +2/+2 until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0132
+6
+rare
+It of the Twisted Mind
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Fractal Horror 
+4
+6
+When this creature enters, each player exiles their hand, then draws three cards.<br>///br///Whenever this creature attacks, you may cast a card exiled with it without paying its mana cost.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0019
+3
+uncommon
+Emergency Mechanic
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Artificer 
+0
+0
+This creature enters with a +1/+1 counter on it for each artifact you control.<br>///br///<span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a counter from this creature: Target creature you control with mana value X gains hexproof and indestructible until end of turn.      
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0234
+2
+uncommon
+Junk-Sewn Cobra
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Snake 
+1
+1
+Deathtouch<br>///br///Whenever you sacrifice one or more tokens, add that much mana of any one color. This ability triggers only once each turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0044
+4
+common
+Synergy Construct
+white, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+3
+3
+ 1W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+1
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0080
+2
+common
+Glimpse of Infinity
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target creature or artifact spell if it shares a mana value with another spell or permanent you control.
+<i>The Infinite Consortium does not take kindly to guests.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0257
+3
+uncommon
+Extremity Adapter
+blue, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Artificer 
+0
+3
+Equip and Reconfigure abilities you activate cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to activate.<br>///br///Whenever an equipped creature you control deals combat damage to a player, draw a card and lose a life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0073
+3
+common
+Consortium Sentinel
+blue, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct 
+2
+*
+Vigilance<br>///br///This creatures toughness is equal to the number of artifact creatures and/or equipment you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0084
+3
+common
+Manta Shawl
+blue, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Equipment Fish 
+2
+3
+ B &#8212;  
+
+
+
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+1
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0074
+4
+uncommon
+Crawling Iceguantlet
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Equipment Spider 
+2
+4
+Whenever this creature or equipped creature deals combat damage to a player, tap target creature and put a stun counter on it.<br>///br///Equipped creature gets +2/+4.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0115
+4
+common
+Carrion Dredger
+black, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Zombie Construct 
+3
+2
+ 1G &#8212;  
+
+
+
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+1
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0122
+4
+common
+Feasting Automaton
+black, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct 
+4
+3
+ 1R &#8212;  
+
+
+
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+2
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0036
+3
+common
+Preacher of Unanimity
+white, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Vedalken Monk 
+2
+3
+ 1U &#8212;  
+
+
+
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+1
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0206
+5
+common
+Autonomy Spearhead
+green, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Human 
+2
+5
+ 2W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+1
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0198
+3
+common
+Tattered Simulacrum
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+3
+1
+ G &#8212;  
+
+
+
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+1
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0021
+6
+common
+Facsimile Executioner
+white, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Golem 
+3
+4
+ 3B &#8212;  
+
+
+
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+1
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0186
+1
+uncommon
+Red Uncommon 1
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0154
+4
+uncommon
+Trash Weaponist
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct 
+3
+2
+When this creature enters, create two tapped Junk tokens <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i><br>///br///Junk you control are equipment in addition to their other types and have &#8220;Equipped creature gets +1/+1.&#8221; and Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0110
+1
+uncommon
+B Uncommon2
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0150
+5
+uncommon
+Simian Smith
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Ape Artificer 
+4
+4
+Deathtouch<br>///br///When this creature attacks, you may sacrifice an artifact, when you do, create two tapped Rock tokens attached to this creature. <i>(They&#8217;re colorless Equipment artifact tokens with &#8220;Equipped creature has &#8216;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, Tap, Sacrifice Rock: This creature deals 2 damage to any target.&#8217;&#8221; and equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>.)</i>           
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0129
+2
+uncommon
+Herculean Plate
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Equipment Insect 
+0
+1
+Indestructible<br>///br///Equipped creature has indestructible.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&#8217;t a creature.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0109
+1
+uncommon
+B Uncommon1
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0116
+5
+uncommon
+Consortium Bonewinder
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Skeleton Snake 
+2
+2
+Menace<br>///br///When this creature enters, create two 1/1 black Skeleton creature tokens.<br>///br///Whenever a token you control leaves the battlefield, put a +1/+1 counter on this creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0063
+1
+uncommon
+Blue Uncommon1
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0064
+1
+uncommon
+Blue Uncommon2
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0065
+1
+uncommon
+Blue Uncommon3
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0066
+1
+uncommon
+Blue Uncommon4
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0068
+1
+uncommon
+Blue Uncommon6
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0067
+1
+uncommon
+Blue Uncommon5
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0101
+4
+uncommon
+Temporal Angler
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fish 
+4
+4
+Whenever a creature enters under your control, if it was cast from exile or entered from exile, tap target creature you don&#8217;t control and put a stun counter on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0091
+4
+uncommon
+Recursive Loop
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Return target creature to its owner&#8217;s hand.<br>///br///&#8212; Return target instant card from your graveyard to your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0056
+1
+uncommon
+White Uncommon3
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0055
+1
+uncommon
+White Uncommon2
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0040
+5
+uncommon
+Strobe-Knight Champion
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+5
+4
+<i>Symmetry 4</i> &#8212; As long as you control four or more nonland permanents with the same mana value, at the beginning of your end step, create a 2/2 white Knight creature token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0057
+1
+uncommon
+White Uncommon4
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0030
+9
+uncommon
+Militia of the Many
+white
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+6
+5
+This spell costs <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> less to cast, where X is the greatest number of creatures you control which share a mana value.<br>///br///First strike
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0013
+5
+uncommon
+Beaming Colossus
+white, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Golem 
+3
+4
+ 2W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+1
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0014
+3
+uncommon
+Blinding Knight
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+2
+3
+Flash<br>///br///When this creature enters, untap another target creature you control, if that creature has the same mana value as this creature, it gains indestructible until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0231
+3
+uncommon
+Hoarding Outcast
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Rogue 
+2
+3
+Vigilance<br>///br///When this creature enters, create a Treasure token and a Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0219
+1
+uncommon
+G Uncommon2
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0220
+1
+uncommon
+G Uncommon3
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0221
+1
+uncommon
+G Uncommon4
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0222
+1
+uncommon
+G Uncommon5
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0223
+4
+uncommon
+GGGG
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+whenever you abstract, return this card from your graveyard to your hand. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0217
+3
+uncommon
+Fractal Refiner
+green, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice a token: Create a 1/1 green and blue Fractal creature token with mana value 3, if the sacrificed token was a junk, create another one of those tokens.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0230
+3
+uncommon
+Green Uncommon Bite Spell
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Target creature you control deals damage equal to its power to target creature you don&#8217;t control.<br>///br///&#8212; Until end of turn, target creature you control gains &#8220;Whenever this creature deals combat damage to a player, you may draw two cards.&#8221;
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0246
+5
+uncommon
+Simian Scrapper
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Ape 
+4
+4
+Trample<br>///br///When this creature attacks, you may sacrifice a nontoken artifact, when you do, create two tapped Junk tokens. <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0210
+1
+common
+Duel to the Death
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Target creature you control fights target creature you don&#8217;t control. When a creature you control dies this way, create a 1/1 black Skeleton creature token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0031
+6
+rare
+The Mirror Chorus
+white, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Artifact Creature — Angel 
+4
+4
+Flying<br>///br///Each creature you control that shares a mana value with at least two other creatures you control gets +2/+2 and has flying.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0018
+3
+common
+Eightfold Rejuvenator
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, you gain 3 life. If it was cast from exile, put a lifelink counter on it instead.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0038
+3
+uncommon
+Shielding Mesh
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Equipment Wall 
+0
+6
+Defender<br>///br///This creature and equipped creature can block an additional two creatures each combat.<br>///br///Equipped creature gets +0/+6 and has defender.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0081
+3
+rare
+In the Mirror
+blue
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Create X tokens that are each a copy of target creature you control, and each have mana value X.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0273
+3
+uncommon
+Strobe-Knight Reckoner
+white, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+3
+2
+Menace<br>///br///Other creatures you control with haste get +1/+1. The same is true for other creatures you control with vigilance, first strike, lifelink, menace, flying, trample, hexproof, indestructible, reach, and deathtouch.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0252
+3
+uncommon
+Conformist Shard
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fractal 
+1
+1
+This creature enters with a number of +1/+1 counters on it equal to the greatest number of nonland permanents you control which share a mana value.<br>///br///Other Fractal creatures you control have flying.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0255
+3
+uncommon
+Deathbed Protector
+black, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Skeleton Warlock 
+1
+3
+Sacrifice a token: Target creature you don&#8217;t control gets -1/-1 until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0079
+2
+uncommon
+Frog Bracers
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Equipment Frog 
+1
+2
+Reach<br>///br///Equipped creature gets +1/+2 and has reach.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Untap another target nonland permanent you control.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0119
+3
+mythic rare
+Elxle, Scrap Feaster
+black, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Artifact Creature — Construct 
+1
+1
+Whenever you sacrifice one or more permanents, put that many +1/+1 counters on this creature.<br>///br///Whenever this creature deals combat damage to a player, you may remove all counters from it, if you do, create that many Junk tokens.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0008
+0
+uncommon
+extra Uncommon6
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0006
+0
+uncommon
+extra Uncommon4
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0005
+0
+uncommon
+extra Uncommon3
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0007
+0
+uncommon
+extra Uncommon5
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0009
+0
+uncommon
+extra Uncommon7
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0003
+0
+uncommon
+extra Uncommon1
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0004
+0
+uncommon
+extra Uncommon2
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0266
+3
+rare
+Perfected Being
+white, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Knight 
+2
+3
+ 5RW &#8212;  
+
+
+
+white, red, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+5
+6
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0271
+4
+rare
+Sharding Colossus
+red, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Golem 
+4
+4
+ 5RG &#8212;  
+
+
+
+red, green, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+6
+6
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0124
+2
+common
+Formless Graft
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Equipment Horror 
+1
+2
+This creature and equipped creature can&#8217;t be blocked by creatures with greater power.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&#8217;t a creature.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0244
+2
+common
+Restitution
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Shuffle your graveyard into your library, then scry 2.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0256
+2
+rare
+Extradimensional Entity
+blue, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Equipment Horror 
+2
+2
+ 2UB &#8212;  
+
+
+
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+2
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0215
+3
+uncommon
+Fractal Mulcher
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+1
+1
+When this creature enters create a 1/1 blue and green Fractal token with mana value 2.<br>///br///Sacrifice two tokens: Put a +1/+1 counter on this creature and draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0071
+2
+uncommon
+Cobalt Hawk
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Equipment Bird 
+1
+1
+Flying<br>///br///Equipped creature has flying.<br>///br///Whenever this creature or equipped creature deals combat damage to a player, scry X, where X is the damage dealt.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0025
+4
+mythic rare
+Keeper of Protocol
+white, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+3
+3
+ 2W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+2
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0242
+2
+common
+Refertilize
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast this spell, sacrifice a token.<br>///br///Search your library for two basic land cards, reveal them, put one onto the battlefield tapped, and the other into your hand, then shuffle.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0131
+1
+common
+Improvised Weaponry
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice a token or pay <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>.<br>///br///Exile target creature or artifact.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0200
+3
+mythic rare
+Thief of Time
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+2
+2
+Menace, Haste<br>///br///Whenever this creature attacks and isn&#8217;t blocked, create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; This creature gets +2/+2 until end of turn.<br>///br///&#8212; Exile the top card of your library, you may play it until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0050
+1
+common
+White Common 1
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0039
+2
+common
+Slinking Spyglass
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Equipment Cat 
+2
+1
+Vigilance<br>///br///Equipped creature has vigilance.<br>///br///Whenever this creature or equipped creature deals combat damage to a player, scry 1.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0045
+2
+common
+Train for Synonymy
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///As this enchantment enters, choose a number. Enchanted creature has mana value equal to the chosen number.<br>///br///Enchanted creature gets +1/+1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0037
+4
+common
+Sever From Time
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> less to cast as long as it targets a creature which shares a mana value with another nonland permanent on the battlefield.<br>///br///Exile target tapped creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0041
+2
+common
+Strobe-Knight Protector
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+2
+2
+<i>Symmetry 3</i> &#8212; When this creature enters, if you control three or more nonland permanents that share a mana value, create a 1/1 white Knight creature token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0035
+4
+common
+Polynomial Pummeler
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Fractal 
+0
+4
+Lifelink<br>///br///This creature gets +X/+0 where X is the greatest number of nonland permanents you control that share a mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0042
+4
+common
+Subdual Operative
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+3
+4
+When this creature enters, tap up to two target creatures. If two creatures that share a mana value were tapped this way, put a stun counter on each of them.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0048
+1
+common
+Warpmetal Keeper
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Dwarf Artificer 
+1
+2
+As long as you control two or more artifacts, this creature gets +1/+1 and has vigilance.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0022
+3
+common
+Fear Shatterer
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight 
+2
+4
+Vigilance<br>///br///<i>Symmetry 3</i> &#8212; When this creature deals combat damage to a player, if you control three or more nonland permanents which share a mana value, destroy target artifact.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0024
+5
+common
+Gleaming Symmetrist
+white, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+4
+5
+ 2W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+2
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0017
+7
+common
+Eightfold Preacher
+white, artifact, horizontal
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+6
+6
+ 3W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+3
+4
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0047
+5
+common
+Warden of the Eightfold Path
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Elephant Monk 
+3
+5
+Vigilance<br>///br///When this creature enters, return up to one target artifact card from your graveyard to your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0020
+3
+common
+Equalist Cleric
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+2
+3
+<i>Symmetry 3</i> &#8212; As long as you control three or more nonland permanents that share a mana value, this creature gets +1/+1 and has lifelink.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0028
+3
+common
+Lock in Amber
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature can&#8217;t attack or block.<br>///br///<i>Symmetry 3</i> &#8212; As long as you control three or more nonland permanents that share a mana value, enchanted creature loses all abilities.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0012
+3
+common
+Battle Standard
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact
+
+
+At the beginning of combat on your turn, target creature you control gains first strike until end of turn. Then, target creature you control gains vigilance until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0026
+2
+common
+Lattice Sentry
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Fractal Knight 
+2
+2
+As long as you control an artifact, this creature has first strike.<br>///br///Whenever this creature attacks and isn&#8217;t blocked, scry 1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0061
+1
+common
+Blue Common 1
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0062
+1
+common
+Blue Common 2
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0089
+1
+common
+Phasing Intruder
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Rogue 
+1
+1
+This creature can&#8217;t be blocked.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0060
+4
+common
+Bladesinger
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Warrior 
+3
+4
+When this creature enters, look at the top 5 cards of your library, you may reveal an equipment card from among them and put it into your hand. Put the rest on the bottom in a random order.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0093
+3
+common
+Rift Walker
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human 
+2
+4
+This creature gets +1/+1 as long as it&#8217;s equipped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0083
+2
+common
+Looping Researcher
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Vedalken Wizard 
+1
+1
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, scry 1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0106
+3
+common
+Wingspan Pattern
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fractal 
+1
+3
+Flying<br>///br///<i>Symmetry 3</i> &#8212; Whenever this creature deals combat damage to a player, if you control three or more nonland permanents with the same mana value, draw a card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0085
+1
+common
+Minute Rift
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Return target artifact or creature with mana value 2 or less to its owners hand. If that permanent was a token, scry 1.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0099
+2
+common
+Strobe-Knight Displacer
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Knight 
+1
+2
+Whenever this creature attacks, it and up to one target creature which shares a mana value with it can&#8217;t be blocked until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0072
+2
+common
+Consortium Looter
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Merfolk Rogue 
+1
+3
+When this creature enters, you may draw a card, if you do, discard a card. If the discarded card shares a mana value with a nonland permanent you control, draw an additional card.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0112
+1
+common
+Black Common 1
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0113
+1
+common
+Black Common 2
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0114
+1
+common
+Black Common 3
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0145
+4
+common
+Scrap Surgeon
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Zombie Artificer 
+3
+2
+Deathtouch<br>///br///When this creature enters, return target artifact card from your graveyard to your hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0133
+1
+common
+Junk Denial
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Each opponent sacrifices an artifact. Each opponent who didn&#8217;t sacrifice an artifact this way loses 2 life.
+<i>The Infinite Consortium owns everything, even your trash.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0127
+3
+common
+Grimeyard Strangler
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Rat 
+2
+3
+Deathtouch<br>///br///When this creature enters, you may sacrifice another creature or artifact, when you do, create a 1/1 black Skeleton creature token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0111
+2
+common
+Bioharvester Leech
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Leech 
+2
+1
+When this creature dies, each opponent loses 1 life for each permanent you&#8217;ve sacrificed this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0136
+4
+common
+Omnivorous Stalker
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Beast 
+3
+2
+Whenever you sacrifice a creature, this creature gains menace until end of turn.<br>///br///Whenever you sacrifice an artifact, this creature gains lifelink until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0153
+2
+common
+Tethered Geistblade
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Equipment Spirit 
+2
+1
+Equipped creature gets +2/+1.<br>///br///Whenever this creature or equipped creature deals combat damage, you may sacrifice it, if you do, draw a card.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0151
+2
+common
+Soulforge Automaton
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct 
+1
+1
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span><br>///br///When this creature dies, create a Junk token.<br>///br///Whenever you cast this spell from exile, each opponent loses 1 life and you gain 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0146
+1
+common
+Scrapfeeder Imp
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Imp 
+1
+1
+Flying<br>///br///Whenever you sacrifice another artifact or creature, this creature gets +1/+0 until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0107
+5
+common
+Armament Smith
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Artificer 
+4
+5
+Whenever you cast an artifact creature spell, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, when you do, surveil 1 and that creature enters with an additional menace counter on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0183
+1
+common
+Red Common 1
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0184
+1
+common
+Red Common 2
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0185
+1
+common
+Red Common 3
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0202
+3
+common
+UR Faction Duelist
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human 
+4
+2
+Whenever you abstract for the first time each turn, this creature gains first strike until end of turn <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0194
+2
+common
+Shatter
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Destroy target artifact, create  tapped Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0165
+1
+common
+Endless Nuisance
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Goblin 
+1
+1
+Recast <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When you cast this spell from exile, it deals 1 damage to each opponent.        
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0196
+2
+common
+Split into Shards
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+As an additional cost to cast this spell, sacrifice an artifact or creature.<br>///br///This spell deals damage to any target equal to the sacrificed permanent&#8217;s mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0171
+2
+common
+Instigation Specialist
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Goblin 
+1
+2
+Whenever you abstract for the first time each turn, up to one target creature can&#8217;t block this turn. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0191
+3
+common
+Scrap Gourmand
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Horror Noble 
+2
+3
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice an artifact: Put a +1/+1 counter on this creature, activate only as a sorcery.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0179
+2
+common
+Pierce Through
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Up to one target creature can&#8217;t block this turn.<br>///br///Create a Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0182
+2
+common
+Reckless Junkhunter
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Goblin 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, if it was cast from exile, create a Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0193
+6
+common
+Scrapspitter
+red, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+4
+3
+ 3R &#8212;  
+
+
+
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+2
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0177
+6
+common
+Overloading Striker
+red, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+5
+4
+ 1R &#8212;  
+
+
+
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+2
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0175
+1
+common
+Metaphysical Bolt
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Metaphysical Bolt deals 2 damage to target creature or planeswalker.<br>///br///If this spell was cast from exile, instead it deals 3 damage to the chosen target.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0174
+5
+common
+Mechanical Fencer
+red, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct 
+3
+2
+ 2R &#8212;  
+
+
+
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+2
+1
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0192
+2
+common
+Scrap Heap
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact
+
+
+When this artifact enters or leaves the battlefield, create a Junk token <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0166
+3
+common
+Faithless Echoes
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Draw two cards, then discard two cards.<br>///br///&#8212; Draw two cards, then discard two cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0225
+1
+common
+Green Common 1
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0226
+1
+common
+Green Common 2
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0227
+1
+common
+Green Common 3
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0216
+3
+common
+Fractal Rancher
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Druid 
+2
+2
+When this creature enters, create a 1/1 green and blue Fractal creature token with mana value 2.<br>///br///<i>Symmetry 2</i> &#8212; When this creature attacks, if you control three or more nonland permanents with the same mana value, put a +1/+1 counter on target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0208
+7
+common
+Confusing Colossus
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Giant 
+6
+6
+Trample<br>///br///Whenever you abstract, this creature gets +1/+1 until end of turn. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0211
+4
+common
+Evergrowing Pattern
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+2
+3
+Whenever a token enters under your control, put a +1/+1 counter on this creature,
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0247
+3
+common
+Spiraling Birth
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+At the beginning of your upkeep, put a growth counter on this enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Sacrifice this enchantment: Create a 1/1 green and blue fractal creature token with mana value X for each growth counter on this enchantment.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0245
+6
+common
+Scrapheap Reclaimer
+green, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Construct 
+4
+6
+ 2G &#8212;  
+
+
+
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+1
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0204
+6
+common
+Accumulator Fractal
+green, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Fractal  
+4
+5
+ 2G &#8212;  
+
+
+
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+2
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0213
+9
+common
+Fabricated Juggernaut
+green, artifact, horizontal
+<img src='magic-mana-small-8.png' alt='8' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Construct 
+6
+5
+ 5G &#8212;  
+
+
+
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+4
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0283
+3
+common
+Scrap Manifester
+red, green, hybrid, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-RG.png' alt='R/G' width='16' height='16'>
+Creature — Human Wizard 
+3
+2
+Trample<br>///br///When this creature deals combat damage to a player, create a Junk token.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0284
+2
+common
+Search Knight
+white, blue, hybrid, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-WU.png' alt='W/U' width='16' height='16'>
+Creature — Human Knight 
+1
+1
+<i>Symmetry 2</i> &#8212; This creature has flying as long as you control two or more nonland permanents with the same mana value.<br>///br///<i>Symmetry 4</i> &#8212; Whenever this creature deals combat damage to a player, if you control four or more nonland permanents with the same mana value, draw a card.  
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0282
+4
+common
+Goemetry Slayer
+white, red, hybrid, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-RW.png' alt='R/W' width='16' height='16'>
+Creature — Human Knight 
+2
+4
+At the beginning of combat on your turn, target creature you control gains your choice of vigilance, menace, lifelink or haste until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0281
+4
+common
+Fractal Barricade
+blue, red, hybrid, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-UR.png' alt='U/R' width='16' height='16'>
+Creature — Fractal Wall 
+1
+5
+When this creature enters, exile the top card of your library, you may play it until the end of your next turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0279
+2
+common
+Altar of Obfuscation
+black, red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-BR.png' alt='B/R' width='16' height='16'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Sacrifice another artifact or token: Each opponent loses 2 life unless they discard a card or sacrifice a nonland permanent.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0285
+2
+common
+Shark Tooth Knuckles
+blue, black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-UB.png' alt='U/B' width='16' height='16'>
+Artifact Creature — Equipment Fish 
+1
+2
+Deathtouch<br>///br///Equipped creature has deathtouch.<br>///br///Whenever this creature or equipped creature deals combat damage to a player, scry 1.<br>///br///Reconfigure <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&#8217;t a creature.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0286
+6
+common
+Soulstealer Simulacrum
+white, black, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-WB.png' alt='W/B' width='16' height='16'>
+Artifact Creature — Construct 
+6
+5
+Whenever one or more artifact creatures or equipped creatures you control deal combat damage to a player, put a +1/+1 counter on a creature that dealt damage this way.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0280
+1
+common
+Draining Equation
+black, green, hybrid, horizontal
+<img src='magic-mana-small-BG.png' alt='B/G' width='16' height='16'>
+Enchantment
+
+
+Whenever a token you control is put into the graveyard from the battlefield for the first time each turn, each opponent loses 1 life and you gain 1 life.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0288
+3
+common
+Warpmetal Prodigy
+white, green, hybrid, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-GW.png' alt='G/W' width='16' height='16'>
+Creature — Human Druid 
+1
+2
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add two mana in any combination of <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> and <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, spend this mana only to cast artifact spells.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0001
+0
+common
+Extra Common 1
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0002
+0
+common
+Extra Common 2
+colorless
+
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0295
+4
+common
+Strobe-Knight Scout
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct Knight 
+3
+3
+Vigilance<br>///br///Basic landcycling <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0251
+4
+rare
+Axiom Architect
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Fractal 
+4
+4
+ 4GU &#8212;  
+
+
+
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+6
+6
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0270
+4
+rare
+Rotroot Sovereign
+black, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Zombie Construct 
+2
+2
+ 4BG &#8212;  
+
+
+
+black, green, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+4
+4
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0275
+4
+rare
+Synthesized Sin-Eater
+black, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Demon Construct 
+3
+1
+ 5BR &#8212;  
+
+
+
+black, red, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+
+6
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0268
+2
+rare
+Reflected Magician
+white, blue, artifact, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Fractal Wizard 
+2
+2
+ 2WU &#8212;  
+
+
+
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+
+4
+4
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0274
+3
+rare
+Sunherald Behemoth
+white, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Beast Construct 
+3
+3
+ 4GW &#8212;  
+
+
+
+white, green, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+6
+6
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0292
+7
+rare
+Legendary Prototype
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Legendary Artifact Creature — Construct 
+5
+5
+ 1R/WWG/W &#8212;  
+
+
+
+multicolor
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-RW.png' alt='R/W' width='16' height='16'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-GW.png' alt='G/W' width='16' height='16'>
+
+3
+3
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0096
+6
+rare
+Sharding Sphinx
+blue, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Sphinx 
+4
+4
+Flying<br>///br///Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter creature token with flying.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0296
+3
+rare
+Symmetry Warhammer
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +5/+5 and has vigilance and trample.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-10.png' alt='10' width='14' height='14'></span>. This ability costs <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> less to activate, where X is the greatest number of nonland permanents you control that share a mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0143
+3
+rare
+Scrap Shaman
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Ape Shaman 
+2
+3
+Recast <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span><br>///br///When this creature enters, create a Junk token.<br>///br///This creature costs <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> less to recast, where X is the number of tokens you&#8217;ve sacrificed this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0051
+1
+rare
+White Rare 1
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0010
+4
+rare
+Absolute Obliteration
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When this enchantment enters, choose a number, then, destroy all creatures with mana value equal to the chosen number.<br>///br///Whenever a creature with mana value equal to the chosen number enters under an opponents control, destroy it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0052
+1
+rare
+White Rare 2
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0053
+1
+rare
+White Rare 4
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0029
+7
+rare
+Mechanized Refiner
+white, artifact, horizontal
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct 
+5
+5
+ 3W &#8212;  
+
+
+
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+2
+2
+Prototype <i>(You may cast this spell with different mana cost, color, and size. It keeps its abilities and types.)</i>
+
+
+===========
+normal
+0126
+4
+rare
+Gravelooper
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+At the beginning of your upkeep, exile target creature card from your graveyard. When you do, create a 1/1 black Skeleton creature token. When that creature dies, return the exiled card to its owner&#8217;s hand.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0164
+3
+rare
+Endless Encouragement
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Recast <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this enchantment enters, creatures you control gain your choice of menace or vigilance until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0169
+3
+rare
+Impossibility Engine
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact
+
+
+Whenever you create a paradox, you may choose to do both effects immediately.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0229
+1
+rare
+Green Rare 1
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0218
+3
+rare
+Fragmenting Fracturer
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+4
+4
+<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice a creature: Put a +1/+1 counter on each of up to X creatures, where X is the sacrificed creatures mana value.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0209
+4
+rare
+Decaysmith
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Ape 
+5
+3
+When this creature enters or attacks, put a despoil counter on target artifact.<br>///br///Artifacts with despoil counters on them became junk artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, sacrifice this artifact: Exile the top card of your library, you may play it this turn. Activate only as a sorcery.&#8221; and lose all other types and abilities.<br>///br///Whenever a player sacrifices an junk, put a +1/+1 counter on this creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0212
+2
+rare
+Exponential Enlightener
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal 
+2
+1
+Recast <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///When this creature enters, draw card, if it was cast from exile, instead draw cards equal to the greatest number of nonland permanents you control that share a mana value, then sacrifice this creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0248
+2
+uncommon
+Symmetrical Clobbering
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Any number of target creatures you control with the same mana value each deal damage to target creature equal to their power.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0054
+1
+uncommon
+White Uncommon1
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+
+
+
+
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0195
+5
+uncommon
+Simian Shaman
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Ape Shaman 
+4
+4
+Haste<br>///br///When this creature attacks, you may sacrifice a nontoken artifact, when you do, exile the top two cards of your library, you may play them this turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0158
+4
+rare
+Conflagratory Collapse
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Destroy any number of target artifacts with total mana value 5 or less.
+<i>The Molten Dunes got their name from somewhere.</i>
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0168
+4
+uncommon
+Frenzied Ripper
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Fractal Beast 
+3
+4
+Recast <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span><br>///br///When this creature enters, if it was cast from exile, it gets +2/+0 and gains haste until end of turn.<br>///br///When this creature deals combat damage to a player, if it was cast from exile this turn, sacrifice it.           
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0224
+4
+common
+Gravity Matcher
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal Giant 
+3
+2
+Trample<br>///br///When this creature enters, create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Put a +1/+1 counter on this creature.<br>///br///&#8212; This creature fights up to one target creature.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0130
+4
+common
+Hypothetical Nightmare
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Nightmare Illusion 
+3
+2
+Flying<br>///br///Whenever this creature becomes the target of a spell an opponent controls, sacrifice it.<br>///br///When this creature leaves the battlefield, create a Junk token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&#8221;)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0170
+5
+rare
+Instability Elemental
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental 
+4
+4
+Menace<br>///br///Whenever this creature deals combat damage to a player, create a paradox.<br>///br///&#8212; This creature deals damage to each opponent equal to the number of cards in your hand.<br>///br///&#8212; Discard your hand, then draw three cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0233
+6
+rare
+Inverted Wurm
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Wurm 
+6
+6
+Trample, haste<br>///br///When this creature enters or attacks, pick a number between 1 and 6. this creature and another target creature you control each have mana value equal to the chosen number until your next turn.   
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0134
+4
+uncommon
+Junkgorging Automaton
+black, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct 
+3
+2
+Menace<br>///br///Whenever this creature attacks, you may sacrifice an artifact or creature, when you do, put a +1/+1 counter on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0236
+1
+rare
+Mandelbrot Hydra
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fractal Hydra 
+0
+0
+Trample<br>///br///This creature enters with two +1/+1 counters on it.<br>///br///Whenever you cast a spell with mana value equal to this creatures power, double the number of counters on it.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0086
+6
+mythic rare
+Mirageweaver Serpent
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Serpent Illusion 
+6
+4
+Recast <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span><br>///br///Whenever you cast this spell from exile, copy it, the copy doesn&#8217;t have any abilities.<br>///br///Whenever this creature attacks, for each other creature you control with the same name as it, add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, until end of turn, you don&#8217;t lose this mana as steps and phases end
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0178
+2
+uncommon
+Paradox Beast
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Fractal Beast 
+1
+1
+Haste<br>///br///When this creature enters, create a paradox <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; This creature gains &#8220;When this creature dies, it deals damage equal to its power to any target,&#8221;<br>///br///&#8212; This creature gets +2/+0 and gains trample until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0181
+5
+rare
+Reality Painter
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental 
+2
+4
+Whenever you cast a creature spell from exile, exile the top card of your library.<br>///br///You may play face up lands and cast face up creature spells you own from exile.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0269
+4
+rare
+Riftscale Tyrant
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+4
+3
+Flying, menace<br>///br///Whenever an artifact you control leaves the battlefield, this creature  deals 3 damage to any target.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0293
+3
+rare
+Mirage Mirror
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: This artifact becomes a copy of target artifact, creature, enchantment, or land until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0082
+5
+rare
+The Inversion Zone
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+At the beginning of combat on your turn, switch the base power and mana value of each creature you control until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0152
+3
+rare
+Tesselion
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+3
+3
+Deathtouch<br>///br///Whenever a non-token creature you control dies, you may pay 1 life. If you do, create a 1/1 black Skeleton creature token.<br>///br///At the beginning of your end step, if three or more creatures died this turn, return this creature from your graveyard to the battlefield tapped.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0203
+3
+rare
+Warpshard Phoenix
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Phoenix 
+2
+2
+Flying, haste<br>///br///Whenever you abstract, you may return this creature from your graveyard to the battlefield with a +1/+1 counter on it. <i>(You abtract whenever you create a paradox, or cast a spell from exile.)</i>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0278
+3
+rare
+Xalax, Infinite Procurer
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Rogue 
+1
+4
+Recast&#8212; <span class="symbol"><img src='magic-mana-small-UB.png' alt='U/B' width='16' height='16'></span>, Discard two cards <i>(You may exile this card from the battlefield for it&#8217;s recast cost any time you could cast it. If you do, you may cast it from exile without paying it&#8217;s mana cost.)</i><br>///br///Deathtouch<br>///br///When this creature enters, look at the top six cards of your library, put one of them into your hand, and the rest on the bottom in a random order.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0300
+0
+mythic rare
+Mirror Spire
+land
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span>: This land becomes a copy of target creature you control until end of turn except it has base power and toughness X and mana value X.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0305
+0
+basic land
+Metalgrown Jungle
+blue, green, land, horizontal
+
+Artifact Land
+
+
+Metalgrown Jungle enters tapped.<br>///br///When Metalgrown Jungle leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0310
+0
+basic land
+Temporal Forge
+blue, red, land, horizontal
+
+Artifact Land
+
+
+Temporal Forge enters tapped.<br>///br///When Temporal Forge leaves the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0117
+3
+common
+Consortium Haruspex
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+2
+2
+Whenever you sacrifice a permanent, create a paradox, this ability triggers only once each turn <i>(Choose one, the unchosen effect happens at the beginning of your next upkeep.)</i><br>///br///&#8212; Each opponent loses 1 life and you gain 1 life.<br>///br///&#8212; Target creature gains menace until end of turn.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+0070
+2
+uncommon
+Change of Perspective
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Target creature can&#8217;t be blocked this turn.<br>///br///<i>Symmetry 3</i> &#8212; If you control three or more nonland permanents with the same mana value, whenever that creature deals combat damage to a player this turn, draw two cards.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
